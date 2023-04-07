@@ -1,3 +1,3 @@
 # Form-Credit-Card
 
-![Preview]('./assets/preview.jpg')
+![Preview]('preview.jpg')
